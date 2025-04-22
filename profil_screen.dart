@@ -141,7 +141,7 @@ class ProfilScreen extends StatelessWidget {
                 mainAxisSpacing: 8,
                 crossAxisSpacing: 8,
               ),
-              itemCount: 12, // jumlah konten dummy
+              itemCount: 12,
               itemBuilder: (context, index) {
                 return Container(
                   color: Colors.grey.shade800,
